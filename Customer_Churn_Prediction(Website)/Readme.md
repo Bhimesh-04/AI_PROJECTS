@@ -1,7 +1,7 @@
 
 <h1 style="text-align:center">FRONT VIEW / CLIENT VIEW</h1>
 
-<img width="958" alt="Frontend-Image" src="https://github.com/user-attachments/assets/f52bd92b-3e13-4cf2-a2ea-ea9655a20abe" />
+![Image](https://github.com/user-attachments/assets/95e3abe6-4217-4627-a232-72a4e52dfe2c)
 
 <br><br>
 
